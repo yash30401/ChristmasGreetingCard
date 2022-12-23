@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Christmas Greeting</string>
     <string name="chooseCard">Choose Card</string>
+    <string name="share">Share</string>
 </resources>
